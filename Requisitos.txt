@@ -1,0 +1,17 @@
+Lista de requisitos
+
+Requisitos funcionais:
+- Nome do usuario
+- Nome do exercicio
+- Data de entrega do exercicio
+- Valor do exercicio em pontos
+- Aba de exercicios já concluidos
+- Aba de exercicios não concluidos
+- Data em que o trabalho foi inserido
+- Tempo restante para conclui-lo
+- Se a tarefa for concluida antes do prazo, aparecerá: "Concluido com sucesso" 
+- Se depois do prazo: "Concluido em atraso"
+- Tarefa pendente
+
+Requisito não funcional:
+- Login e senha (para backup)
